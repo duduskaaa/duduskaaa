@@ -1,7 +1,6 @@
 Header
 
-
-![OMG](C:\Users\ergal\Desktop\Эвакуация\MyCustom\miku_img\miku_computer2.png)
+![miku](/assets/miku_burger_gif.gif "view")
 
 About me
 
