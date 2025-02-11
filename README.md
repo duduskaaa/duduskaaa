@@ -1,5 +1,4 @@
-Header
-Hello, my name is Khatep Ergaly!
+# Hello, my name is Khatep Ergaly!
 ![miku](/assets/miku_burger_gif.gif "view")
 
 
