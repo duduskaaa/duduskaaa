@@ -8,6 +8,7 @@ This is a test version of my future github profile.
 And, my english is suck, so...
 
 Skills: yeah...
+Technologies: 
 
 
 
